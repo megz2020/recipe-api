@@ -1,4 +1,7 @@
 Django==3.1
-djangorestframework==3.11.1
+djangorestframework
+psycopg2
+Pillow
+psycopg2
 flake8>=3.6.0,<3.7.0
 
